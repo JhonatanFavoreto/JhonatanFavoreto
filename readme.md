@@ -1,48 +1,41 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=90&duration=3500&lines=Fala,+Dev's!+👋;+Sou+o+Jhonatan+Henrique+Favoreto!+🚀🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Fala,+Dev's!+👋;+Sou+o+Jhonatan+Henrique+Favoreto!+🚀🔥" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Coding GIF"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=180&section=header&text=Welcome+to+My+Code+World&fontSize=50&animation=twinkling"/>
-
----
-
-## 🔥 Sobre Mim  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=header&text=Welcome+to+my+GitHub!&fontSize=40&animation=twinkling" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="100" alt="Developer Gif"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JhonatanFavoreto&theme=radical&row=1&column=6&margin-w=10" alt="Troféus GitHub" />
 </div>
-
-🎓 Técnico em Desenvolvimento de Software – **SENAI-SP (Valinhos)**  
-🛠️ Back-End + Front-End = Full Stack vibes  
-🎮 Gamer | 🎨 Designer gráfico | 📚 Aprendiz incansável  
-🌎 Valinhos, São Paulo 🇧🇷 | Inglês básico, crescendo sempre!  
-💻 Código limpo, desafios, lógica e café ☕  
-📈 Em constante evolução, sempre!
 
 ---
 
-## 🧠 Skills & Ferramentas  
+## 🔥 Sobre Mim
 
-<div align="center" style="max-width:600px;">
-  
-| Skill             | Progresso         |
-|-------------------|-------------------|
-| Lógica de Programação | ██████████ 100%   |
-| JavaScript ES6+   | ████████░░ 80%     |
-| C# / .NET         | ███████░░░ 70%     |
-| Java              | ██████░░░░ 60%     |
-| SQL / Banco de Dados | ███████░░░ 75%    |
-| Design Gráfico    | ██████░░░░ 60%     |
-| Git & GitHub      | █████████░ 90%     |
-  
+<div align="center">
+  🎓 Cursando Técnico em Desenvolvimento de Software – **SENAI-SP (Valinhos)**  
+  🛠️ Foco em Back-End, mas manjo de Front também  
+  🎮 Gamer nas horas vagas e apaixonado por tecnologia  
+  🎨 Design gráfico: Photoshop, Canva, After Effects  
+  📦 Microsoft Office (Word, Excel, PowerPoint...)  
+  🌎 Valinhos, São Paulo, Brasil 🇧🇷  
+  📖 Inglês: Básico (sempre evoluindo)  
+  💻 Código limpo, boas práticas e desafios lógicos  
+  📈 Sempre aprendendo e melhorando  
 </div>
 
-<div align="center" style="margin-top:15px;">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,csharp,dotnet,java,mysql,git,github,figma,photoshop,canva,office,vscode,postman" />
+---
+
+## 🧠 Competências Técnicas & Ferramentas
+
+<div align="center">
+
+| Fundamentos                         | Desenvolvimento                    | Ferramentas                      | Outros                         |
+| ---------------------------------- | --------------------------------- | ------------------------------- | ----------------------------- |
+| ✔️ Lógica de Programação            | ✔️ HTML5, CSS3, JavaScript ES6+   | ✔️ VS Code, Visual Studio        | ✔️ Desenvolvimento Responsivo  |
+| ✔️ Algoritmos & POO                 | ✔️ C#, .NET, ASP.NET               | ✔️ Git, GitHub, Git Bash         | ✔️ API RESTful                 |
+| ✔️ Modelagem & BD Relacional        | ✔️ Java, MySQL, SQL Server         | ✔️ Figma, Trello, Postman        | ✔️ Documentação Técnica, UML  |
+| ✔️ Controle de Versão               |                                   | ✔️ Photoshop, Canva, After Effects| ✔️ Segurança da Informação (bases)|
 </div>
 
 ---
@@ -50,112 +43,79 @@
 ## ⚡ Minhas Estatísticas GitHub
 
 <div align="center">
-  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
 
-<div align="center" style="margin-top:15px;">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanFavoreto&bg_color=0d1117&color=00ccff&line=00ffee&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Tecnologias que uso
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,csharp,dotnet,java,mysql,git,github,figma,photoshop,canva,office,vscode,postman,insomnia,trello" />
+</div>
+
+---
+
+## 🚀 Projetos em destaque
 
 <div align="center">
 
-| Projeto                     | Descrição                      | GIF/Preview                                         | Link                                       |
-|----------------------------|-------------------------------|----------------------------------------------------|--------------------------------------------|
-| **Portfolio Pessoal**       | Site responsivo em React      | ![preview](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif) | [Acesse](https://jhonatanfavoreto.github.io)    |
-| **App de Tarefas**          | Organizador simples de tarefas | ![preview](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [GitHub](https://github.com/JhonatanFavoreto/taskapp) |
-| **Blog Tech**               | Conteúdo sobre programação    | ![preview](https://media.giphy.com/media/xT0GqeSlGSRQutjO6k/giphy.gif) | [Blog](https://blog.jhonatanfavoreto.com)         |
+| Projeto                        | Descrição                          | Link                                  |
+| ----------------------------- | -------------------------------- | ------------------------------------ |
+| 💻 [Meu Portfolio](https://jhonatanfavoreto.github.io) | Site pessoal responsivo feito com React | [Acesse aqui](https://jhonatanfavoreto.github.io) |
+| 📱 [App de Tarefas](https://github.com/JhonatanFavoreto/taskapp) | App simples para organizar tarefas | [GitHub](https://github.com/JhonatanFavoreto/taskapp) |
+| 🌐 [Blog Tech](https://blog.jhonatanfavoreto.com) | Blog com conteúdos de programação | [Leia mais](https://blog.jhonatanfavoreto.com) |
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 📝 Depoimento
 
-<div align="center" style="margin-top:10px;">
-  <a href="https://instagram.com/jhonatanfavoreto" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jhonatan-henrique-favoreto-72017434b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5519988135132" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2326A69A?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:jhonatan.favoreto18@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wakatime.com/@jhonatanfavoreto" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-TimeTracker-1abc9c?style=for-the-badge&logo=wakatime&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/jhonatanfavoreto" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+> “A vida é um código que a gente escreve todos os dias. Que nunca falte vontade de aprender e inovar!” – *Jhonatan Henrique Favoreto*
+
+---
+
+## 📚 Certificações
+
+<div align="center">
+  <a href="https://www.udemy.com/certificate/..." target="_blank"><img src="https://img.shields.io/badge/Udemy-Certificado-ff0000?style=for-the-badge&logo=udemy&logoColor=white" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/..." target="_blank"><img src="https://img.shields.io/badge/Coursera-Certificado-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 </div>
 
 ---
 
-## 📝 Depoimento Inspirador
-
-<blockquote>
-  <p align="center" style="font-size:18px; font-style:italic;">
-    “A vida é um código que a gente escreve todos os dias. Que nunca falte vontade de aprender e inovar!”<br/>
-    — <strong>Jhonatan Henrique Favoreto</strong>
-  </p>
-</blockquote>
-
----
-
-## 🌍 Onde o código chegou?
+## 🌐 Me encontre por aí
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JhonatanFavoreto/JhonatanFavoreto/main/world-map.svg" alt="Mapa Mundo Conexões" width="80%" />
+  <a href="https://instagram.com/jhonatanfavoreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jhonatan-henrique-favoreto-72017434b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5519988135132" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:jhonatan.favoreto18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wakatime.com/@jhonatanfavoreto" target="_blank"><img src="https://img.shields.io/badge/WakaTime-TimeTracker-1abc9c?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
+  <a href="https://leetcode.com/jhonatanfavoreto" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
 ---
 
 ## 📥 Baixe meu CV
 
-<div align="center" style="margin-top:10px;">
-  <a href="https://yourlinktoCV.com/JhonatanFavoretoCV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
-  </a>
-</div>
-
----
-
-<h2 align="center">🎯 Quer ver minha evolução?</h2>
-
 <div align="center">
-  <img src="https://wakatime.com/share/@jhonatanfavoreto/1234567890abcdef1234567890abcdef.svg" alt="WakaTime Stats" width="600" />
-</div>
-
----
-
-<h2 align="center">📅 Linha do Tempo da Carreira</h2>
-
-<div align="center" markdown="1">
-  
-| Ano    | Evento                                                                 |
-|--------|------------------------------------------------------------------------|
-| 2022   | Iniciei meus estudos em lógica e programação                           |
-| 2023   | Desenvolvi meu primeiro app de tarefas                                  |
-| 2024   | Entrei no SENAI para curso técnico de Desenvolvimento de Software      |
-| 2025   | Publiquei meu portfólio online e comecei a contribuir no GitHub        |
-
+  <a href="https://yourlinktoCV.com/JhonatanFavoretoCV.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" /></a>
 </div>
 
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=90&duration=4000&lines=Valeu+por+visitar!+Bora+codar+sempre+🚀🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Valeu+por+visitar!;+Bora+codar+sempre!+🚀🔥" />
 </h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=180&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=footer" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonatanFavoreto/JhonatanFavoreto/output/github-contribution-grid-snake-dark.svg" />
