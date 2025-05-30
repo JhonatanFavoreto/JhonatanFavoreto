@@ -10,10 +10,12 @@
 
 🎓 Cursando Técnico em Desenvolvimento de Software – **SENAI-SP (Valinhos)**  
 🛠️ Foco em Back-End, mas manjo de Front também  
+🎮 Gamer nas horas vagas e apaixonado por tecnologia  
+🎨 Experiência com Design gráfico, Photoshop, After Effects e similares  
+📦 Conhecimento em Microsoft Office (Word, Excel, PowerPoint...)  
 🌎 Localização: Valinhos, São Paulo, Brasil 🇧🇷  
 📖 Inglês: Nível Básico (estudando sempre pra subir!)  
-💻 Apaixonado por tecnologia, código limpo e boas práticas  
-🚗 Curto carros de verdade — estilo e engenharia em movimento  
+💻 Curto código limpo, boas práticas e desafios lógicos  
 📈 Sempre buscando aprender, evoluir e codar melhor  
 
 </div>
@@ -38,6 +40,7 @@
 ✔️ Visual Studio / Code  
 ✔️ Figma • Trello • SCRUM / Kanban  
 ✔️ Git Bash • Postman • Insomnia  
+✔️ Photoshop • After Effects • Pacote Office  
 
 ### 📱 Outros
 ✔️ Desenvolvimento Web Responsivo  
@@ -52,12 +55,12 @@
 <h2 align="center">⚡ Minhas Estatísticas ⚡</h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonatanHenriqueFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanHenriqueFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanFavoreto&bg_color=0d1117&color=00ccff&line=00ffee&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanHenriqueFavoreto&bg_color=0d1117&color=00ccff&line=00ffee&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -65,7 +68,7 @@
 <h2 align="center">🛠️ Tecnologias que uso</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,csharp,dotnet,java,mysql,git,github,figma,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,csharp,dotnet,java,mysql,git,github,figma,photoshop,aftereffects,office,vscode,postman" />
 </div>
 
 ---
