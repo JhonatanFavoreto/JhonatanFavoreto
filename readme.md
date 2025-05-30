@@ -11,7 +11,7 @@
 🎓 Cursando Técnico em Desenvolvimento de Software – **SENAI-SP (Valinhos)**  
 🛠️ Foco em Back-End, mas manjo de Front também  
 🎮 Gamer nas horas vagas e apaixonado por tecnologia  
-🎨 Experiência com Design gráfico, Photoshop, After Effects e similares  
+🎨 Experiência com Design gráfico, Photoshop, Canva, After Effects e similares  
 📦 Conhecimento em Microsoft Office (Word, Excel, PowerPoint...)  
 🌎 Localização: Valinhos, São Paulo, Brasil 🇧🇷  
 📖 Inglês: Nível Básico (estudando sempre pra subir!)  
@@ -68,7 +68,7 @@
 <h2 align="center">🛠️ Tecnologias que uso</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,csharp,dotnet,java,mysql,git,github,figma,photoshop,aftereffects,office,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,csharp,dotnet,java,mysql,git,github,figma,photoshop,canva,office,vscode,postman" />
 </div>
 
 ---
