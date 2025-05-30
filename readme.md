@@ -73,10 +73,10 @@
 <h2 align="center">📲 Contato</h2>
 
 <div align="center"> 
-  <a href="https://instagram.com/heberth_s17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/heberth-santos-2a2a331b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5573981045946" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="mailto:heberthsantos79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/jhonatanfavoreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jhonatan-henrique-favoreto-72017434b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5519988135132" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:jhonatan.favoreto18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
