@@ -23,7 +23,7 @@
 <h2 align="center">🧠 Competências Técnicas</h2>
 
 <div align="center">
-  
+
 ### 💡 Fundamentos
 ✔️ Lógica de Programação • Algoritmos • POO  
 ✔️ Git e GitHub • Controle de Versão  
@@ -52,12 +52,12 @@
 <h2 align="center">⚡ Minhas Estatísticas ⚡</h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonatanHenriqueFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanHenriqueFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanHenriqueFavoreto&bg_color=0d1117&color=00ccff&line=00ffee&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanFavoreto&bg_color=0d1117&color=00ccff&line=00ffee&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
