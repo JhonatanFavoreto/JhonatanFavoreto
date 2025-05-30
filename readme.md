@@ -13,7 +13,7 @@
 ## 🔥 About Me
 
 <div align="center">
-  🎓 Currently studying Software Development Technician – **SENAI-SP (Valinhos)**  
+  🎓 Currently studying Software Development Technician – *SENAI-SP (Valinhos)*  
   🛠️ Focused on Back-End, but skilled in Front-End too  
   🎮 Gamer in my free time and passionate about technology  
   🎨 Graphic Design: Photoshop, Canva, After Effects  
