@@ -45,6 +45,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JhonatanFavoreto&theme=algolia&row=1&margin-w=15&margin-h=15" />
+</div>
+
+---
+
 ## 📬 Find me around the web
 
 <div align="center">
