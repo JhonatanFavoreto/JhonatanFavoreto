@@ -21,17 +21,16 @@
 
 | Programming & Concepts     | Frameworks & Tools          | Database & APIs                  |
 |---------------------------|-----------------------------|----------------------------------|
-| ✅ Object-Oriented Programming (OOP) | ✅ .NET / ASP.NET Core       | ✅ MySQL & SQL Server            |
-| ✅ Data Structures & Algorithms       | ✅ JavaScript (ES6+)         | ✅ RESTful APIs                  |
-| ✅ Version Control (Git & GitHub)     | ✅ C# & Java                 | ✅ Database Modeling             |
-| ✅ Clean Code & Best Practices        | ✅ Visual Studio & VS Code   | ✅ API Integration & Testing     |
+| ✅ OOP & Algorithms        | ✅ .NET / ASP.NET Core       | ✅ MySQL & SQL Server            |
+| ✅ Version Control (Git)   | ✅ JavaScript (ES6+)         | ✅ RESTful APIs                  |
+| ✅ Clean Code & Patterns   | ✅ C# & Java                 | ✅ API Integration & Modeling    |
 
 ---
 
 ## 🚀 Technologies I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,dotnet,java,mysql,git,github,vscode,postman,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=dotnet,java,javascript,mysql,git,github,vscode,postman,figma,photoshop" />
 </div>
 
 ---
@@ -48,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JhonatanFavoreto&theme=algolia&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JhonatanFavoreto&theme=algolia&title=Commit,Repositories,Followers,PullRequest&margin-w=15&margin-h=15" />
 </div>
 
 ---
