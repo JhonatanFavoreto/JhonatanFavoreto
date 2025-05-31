@@ -19,12 +19,12 @@
 
 ## 🧠 Core Skills
 
-| Programming & Concepts     | Frameworks & Tools          | Database & APIs           |
-|---------------------------|-----------------------------|--------------------------|
-| ✅ Object-Oriented Programming (OOP) | ✅ .NET / ASP.NET Core       | ✅ MySQL & SQL Server     |
-| ✅ Data Structures & Algorithms       | ✅ JavaScript (ES6+)         | ✅ RESTful APIs           |
-| ✅ Version Control (Git & GitHub)     | ✅ C# & Java                 |                          |
-| ✅ Clean Code & Best Practices        | ✅ Visual Studio & VS Code   |                          |
+| Programming & Concepts     | Frameworks & Tools          | Database & APIs                  |
+|---------------------------|-----------------------------|----------------------------------|
+| ✅ Object-Oriented Programming (OOP) | ✅ .NET / ASP.NET Core       | ✅ MySQL & SQL Server            |
+| ✅ Data Structures & Algorithms       | ✅ JavaScript (ES6+)         | ✅ RESTful APIs                  |
+| ✅ Version Control (Git & GitHub)     | ✅ C# & Java                 | ✅ Database Modeling             |
+| ✅ Clean Code & Best Practices        | ✅ Visual Studio & VS Code   | ✅ API Integration & Testing     |
 
 ---
 
