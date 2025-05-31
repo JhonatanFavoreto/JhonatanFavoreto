@@ -31,7 +31,7 @@
 ## 🚀 Technologies I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,csharp,dotnet,java,mysql,git,github,vscode,postman,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=javascript,phyton,csharp,dotnet,java,mysql,git,github,vscode,postman,figma,photoshop" />
 </div>
 
 ---
