@@ -1,8 +1,17 @@
+<!-- HEADER COM ANIMAÇÃO -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+there,+I'm+Jhonatan+Henrique+Favoreto!+👋🚀" />
 </h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=header&text=Welcome+to+my+GitHub!&fontSize=40&animation=twinkling" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=header&text=Welcome+to+my+GitHub!&fontSize=40&animation=twinkling" />
+</p>
+
+<!-- BADGES DE VISITAS E STATUS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JhonatanFavoreto&label=Profile+Views&color=00ccff&style=flat" />
+  <img src="https://img.shields.io/github/followers/JhonatanFavoreto?label=Follow&style=social" />
+</p>
 
 ---
 
@@ -30,29 +39,37 @@
 
 ## 🚀 Technologies I Use
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,dotnet,java,mysql,git,github,vscode,postman,figma,photoshop" />
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanFavoreto&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
-</div>
+</p>
 
 ---
 
-## 📬 Find me around the web
+## 📬 Find Me Around the Web
 
-<div align="center">
-  <a href="https://linkedin.com/in/jhonatan-henrique-favoreto-72017434b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/jhonatanfavoreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:jhonatan.favoreto18@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/jhonatanfavoreto" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/jhonatan-henrique-favoreto-72017434b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jhonatanfavoreto" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jhonatan.favoreto18@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/jhonatanfavoreto" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -60,4 +77,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+Keep+coding+🚀🔥" />
 </h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=footer" />
+</p>
