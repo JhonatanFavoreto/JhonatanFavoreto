@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+there,+I'm+Jhonatan+Henrique+Favoreto!+👋🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=100&duration=5000&lines=Hi+there,+I'm+Jhonatan+Henrique+Favoreto!+👋🚀" />
 </h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=header&text=Welcome+to+my+GitHub!&fontSize=40&animation=twinkling" />
@@ -66,7 +66,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+Keep+coding+🚀🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&lines=Thanks+for+visiting!+Keep+coding+🚀🔥" />
 </h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0fffcf&height=150&section=footer" />
