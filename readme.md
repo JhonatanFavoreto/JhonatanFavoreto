@@ -13,15 +13,15 @@
 ## 🔥 About Me
 
 <div align="center">
-  🎓 Currently studying Software Development Technician – **SENAI-SP (Valinhos)**  
-  🛠️ Focused on Back-End, but skilled in Front-End too  
-  🎮 Gamer in my free time and passionate about technology  
-  🎨 Graphic Design: Photoshop, Canva, After Effects  
-  📦 Microsoft Office (Word, Excel, PowerPoint...)  
-  🌎 Valinhos, São Paulo, Brazil 🇧🇷  
-  📖 English: Basic (always improving)  
-  💻 Clean code, best practices, and logical challenges  
-  📈 Always learning and getting better  
+  - 🎓 Currently studying Software Development Technician – **SENAI-SP (Valinhos)**  
+  - 🛠️ Focused on Back-End, but skilled in Front-End too  
+  - 🎮 Gamer in my free time and passionate about technology  
+  - 🎨 Graphic Design: Photoshop, Canva, After Effects  
+  - 📦 Microsoft Office (Word, Excel, PowerPoint...)  
+  - 🌎 Valinhos, São Paulo, Brazil 🇧🇷  
+  - 📖 English: Basic (always improving)  
+  - 💻 Clean code, best practices, and logical challenges  
+  - 📈 Always learning and getting better  
 </div>
 
 ---
