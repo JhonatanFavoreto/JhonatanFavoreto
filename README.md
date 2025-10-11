@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋! My name is Jhonatan Favoreto and I'm a Full Stack Developer from Brazil</h2>
 
-<p align="left">
-🔭 Currently working on web development projects<br>
-🌱 Learning cloud technologies and advanced React<br>
-💼 Open to collaboration on innovative projects<br>
-💬 Ask me about JavaScript, React, Node.js, and web development
-</p>
-
 ###
 
 <div align="center">
