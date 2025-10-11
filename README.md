@@ -88,8 +88,7 @@ Technical Software Development student at SENAI Valinhos, starting my journey in
 
 <div align="center">
 
-[![Profile Views (alt)](https://img.shields.io/badge/Profile%20Views-Click%20to%20see-blue?style=flat-square)](https://visitcount.itsvg.in/api?id=JhonatanFavoreto&icon=2&color=6)
-
+![Profile Views](https://komarev.com/ghpvc/?username=JhonatanFavoreto&color=blue&style=flat-square&label=Profile+Views)
 [![GitHub Followers](https://img.shields.io/github/followers/JhonatanFavoreto?style=social)](https://github.com/JhonatanFavoreto?tab=followers)
 [![GitHub Repositories](https://img.shields.io/badge/Repositories-View%20All-blue?style=social&logo=github)](https://github.com/JhonatanFavoreto?tab=repositories)
 
