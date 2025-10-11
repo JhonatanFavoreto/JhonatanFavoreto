@@ -4,12 +4,11 @@
 
 Technical Software Development student at SENAI Valinhos, starting my journey in the technology field.
 
-💻 **Currently studying:** Programming fundamentals, web development, logic, and practical projects
-🌱 **Learning:** HTML, CSS, JavaScript, React, Node.js, and development best practices
-🤝 **Seeking opportunities:** Collaborative projects, internships, and networking
-💬 **Talk to me about:** Studies, programming questions, tech careers, and student experiences
-📫 **Contact:** jhonatan.favoreto18@gmail.com
-⚡ **Fun fact:** Passionate about challenges, technology, and always eager to learn!
+💻 **Currently studying:** Programming fundamentals, web development, logic, and practical projects  
+🌱 **Learning:** HTML, CSS, JavaScript, React, Node.js, and development best practices  
+🤝 **Seeking opportunities:** Collaborative projects, internships, and networking  
+💬 **Talk to me about:** Studies, programming questions, tech careers, and student experiences  
+📫 **Contact:** [jhonatan.favoreto18@gmail.com](mailto:jhonatan.favoreto18@gmail.com)
 
 ---
 
