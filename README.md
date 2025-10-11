@@ -163,14 +163,16 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 <div align="center">
   <i>"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb</i>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=58A6FF&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <br><br>
   
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%F0%9F%91%8B;Hope+you+enjoyed!+%E2%AD%90;Let's+connect!+%F0%9F%A4%9D" alt="Thanks Typing SVG"/>
+  
+  <br><br>
   
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
     Let's Build the Future Together! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
   </h2>
   
   <div>
@@ -224,5 +226,5 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
     <img src="https://img.shields.io/badge/Goal-Senior%20Developer%202026-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
   </div>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
 </div>
