@@ -1,14 +1,24 @@
 # 💫 About Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Development+Student;SENAI+Valinhos+%F0%9F%8E%93;6+Months+Completed+%E2%9C%85;Future+Senior+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 
+<br>
 
-Technical Software Development student at SENAI Valinhos, starting my journey in the technology field.
+**From logic to production - building the foundation for senior-level development.** 🌟
 
-💻 **Currently studying:** Programming fundamentals, web development, logic, and practical projects  
-🌱 **Learning:** HTML, CSS, JavaScript, React, Node.js, and development best practices  
-🤝 **Seeking opportunities:** Collaborative projects, internships, and networking  
-💬 **Talk to me about:** Studies, programming questions, tech careers, and student experiences  
+Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at SENAI Valinhos** on a 2-year journey to senior developer level. Already 6 months in, I've built a solid foundation in programming logic, systems, and development methodologies.
+
+💻 **Progress Status:** 6 months completed of 2-year senior development program  
+📚 **Currently mastering:** Back-End Development, Database Systems, and Web Technologies  
+✅ **Foundations completed:** Programming Logic, Systems, Requirements Engineering, and Network Architecture  
+🎯 **Goal:** Graduate as a Senior Developer with full-stack expertise by end of 2026  
+🤝 **Open to:** Technical discussions, collaborative projects, internships, and mentorship opportunities  
+💬 **Talk to me about:** SENAI curriculum, software architecture, development methodologies, and tech career growth  
 📫 **Contact:** [jhonatan.favoreto18@gmail.com](mailto:jhonatan.favoreto18@gmail.com)
+
+> *"The expert in anything was once a beginner who refused to give up."* - 6 months down, 18 to go until end of 2026! 💪
 
 ---
 
@@ -30,37 +40,73 @@ Technical Software Development student at SENAI Valinhos, starting my journey in
 
 ---
 
----
-
 ## 🛠️ Technology Stack
 
-### **Languages**
+### **Core Technologies**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### **Databases & Tools**
+### **Database & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### **Development Tools**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### **Platforms**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 SENAI Senior Development Journey
 
-> **Coming Soon!** Check back for my latest projects and contributions.
+<div align="center">
 
-🔗 **[View All Repositories](https://github.com/JhonatanFavoreto?tab=repositories)**
+### ⏳ **2-Year Program Progress: 25% Complete** 
+**From Beginner to Senior Developer** | Started 2025 | Target: Senior Level End of 2026
+
+</div>
+
+### ✅ **Semester 1 - Completed (6 months)**
+| Subject | Topics Covered | Status |
+|---------|---------------|--------|
+| **Programming Logic & Algorithms** | Logic, Algorithms, Programming Languages, Git, Cloud Versioning | ✅ **Mastered** |
+| **Operating Systems** | Closed/Open Source OS, Network Security, VPN, Cybersecurity, Information Security Policy | ✅ **Completed** |
+| **Requirements Engineering** | Requirements Analysis, Documentation, Scrum, Kanban, Design Thinking | ✅ **Completed** |
+| **Network Architecture with IoT** | Network Models, Protocols, Hardware Architecture, Network Services | ✅ **Completed** |
+
+### 🔄 **Semester 2 - In Progress**
+| Subject | Current Focus | Status |
+|---------|--------------|--------|
+| **Database Systems** | SGBD, Relational Models, SQL Optimization | 🔄 **Current** |
+| **Markup Languages** | HTML5, CSS3, Responsive Layouts, Web Standards | 🔄 **Current** |
+| **Back-End Development** | OOP, MVC Patterns, Frameworks, Web Services, HTTP Protocol | 🔄 **Current** |
+
+### 📅 **Upcoming Semesters (Semester 3-4)**
+| Subject | Planned Learning | Timeline |
+|---------|-----------------|----------|
+| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps | **Mid 2026** |
+| **Mobile Development** | Native Apps, APIs, Hardware Integration, App Publishing | **Mid 2026** |
+| **IoT Development** | Automation, Communication Protocols, Interactive Interfaces | **Late 2026** |
+| **Software Testing** | Test Planning, Execution, Quality Assurance | **Late 2026** |
+| **Software Projects** | Methodologies, Project Management, Final Portfolio | **End 2026** |
+
+### 🎯 **Current Expertise Level**
+- **Programming Logic**: Advanced ⭐⭐⭐⭐⭐
+- **Systems Administration**: Intermediate ⭐⭐⭐⭐
+- **Requirements Engineering**: Intermediate ⭐⭐⭐⭐  
+- **Network & Security**: Intermediate ⭐⭐⭐⭐
+- **Database Design**: Learning ⭐⭐⭐
+- **Web Development**: Learning ⭐⭐⭐
+
+🔗 **[View Academic Projects](https://github.com/JhonatanFavoreto?tab=repositories)** | 💼 **[Connect for Professional Opportunities](mailto:jhonatan.favoreto18@gmail.com)**
 
 ---
 
@@ -119,9 +165,76 @@ Technical Software Development student at SENAI Valinhos, starting my journey in
   
   <br><br>
   
-  **Thank you for visiting my profile! 🚀**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=58A6FF&animation=fadeIn&fontAlignY=65" width="100%"/>
   
   <br>
   
-  ⭐ **Star some repositories if you find them helpful!**
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Let's Build the Future Together! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h2>
+  
+  <br>
+  
+  <div>
+    <h3>🎓 SENAI Senior Developer Network</h3>
+    <p><em>Connecting with fellow developers, sharing knowledge, and building tomorrow's solutions!</em></p>
+    
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
+          **Technical Discussions**<br>
+          <small>Architecture & Best Practices</small>
+        </td>
+        <td align="center">
+          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><br>
+          **Code Collaboration**<br>
+          <small>Senior-level Projects</small>
+        </td>
+        <td align="center">
+          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"><br>
+          **Mentorship Exchange**<br>
+          <small>Growing Together</small>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <br>
+  
+  <div>
+    <h3>⭐ Support My Journey to Senior Developer!</h3>
+    <p>If my learning path and projects inspire you, consider giving my repositories a star!</p>
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80" alt="Stars"/>
+    <br>
+    <small><em>Your support fuels my journey from student to senior developer! 🚀</em></small>
+  </div>
+  
+  <br>
+  
+  <div>
+    <h3>💼 Ready for Professional Opportunities</h3>
+    <p>Open to internships, junior positions, and collaborative projects that challenge my growing skills!</p>
+    <p>
+      <strong>6 months completed</strong> | <strong>18 months to senior level</strong> | <strong>Ready to contribute</strong>
+    </p>
+  </div>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+tomorrow's+solutions+today!+%F0%9F%92%BB;From+logic+to+production%2C+step+by+step!+%F0%9F%8C%B1;Let's+connect+and+create+something+amazing!+%F0%9F%A4%9D;SENAI+pride%2C+senior+developer+mindset!+%F0%9F%9A%80" alt="Typing SVG"/>
+  
+  <br><br>
+  
+  <div>
+    <img src="https://img.shields.io/badge/SENAI%20Student-Senior%20Track-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAI Badge"/>
+    <img src="https://img.shields.io/badge/Progress-25%25%20Complete-green?style=for-the-badge&logo=chart-line&logoColor=white" alt="Progress Badge"/>
+    <img src="https://img.shields.io/badge/Goal-Senior%20Developer%202026-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
+  </div>
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
 </div>
