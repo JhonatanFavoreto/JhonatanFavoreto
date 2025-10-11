@@ -99,7 +99,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 | **Software Projects** | Methodologies, Project Management, Final Portfolio | **End 2026** |
 
 ### 🎯 **Current Expertise Level**
-- **Programming Logic**: Advanced ⭐⭐⭐⭐⭐
+- **Programming Logic**: Intermediate ⭐⭐⭐⭐
 - **Systems Administration**: Intermediate ⭐⭐⭐⭐
 - **Requirements Engineering**: Intermediate ⭐⭐⭐⭐  
 - **Network & Security**: Intermediate ⭐⭐⭐⭐
