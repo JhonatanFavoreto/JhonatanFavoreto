@@ -163,8 +163,6 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 <div align="center">
   <i>"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb</i>
   
-  <br><br>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=58A6FF&animation=fadeIn&fontAlignY=65" width="100%"/>
   
   <br>
@@ -174,8 +172,6 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
     Let's Build the Future Together! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h2>
-  
-  <br>
   
   <div>
     <h3>🎓 SENAI Senior Developer Network</h3>
@@ -202,8 +198,6 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
     </table>
   </div>
   
-  <br>
-  
   <div>
     <h3>⭐ Support My Journey to Senior Developer!</h3>
     <p>If my learning path and projects inspire you, consider giving my repositories a star!</p>
@@ -212,8 +206,6 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
     <small><em>Your support fuels my journey from student to senior developer! 🚀</em></small>
   </div>
   
-  <br>
-  
   <div>
     <h3>💼 Ready for Professional Opportunities</h3>
     <p>Open to internships, junior positions, and collaborative projects that challenge my growing skills!</p>
@@ -221,20 +213,17 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
       <strong>6 months completed</strong> | <strong>18 months to senior level</strong> | <strong>Ready to contribute</strong>
     </p>
   </div>
-  
-  <br>
+
+  <br><br>
+
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+tomorrow's+solutions+today!+%F0%9F%92%BB;From+logic+to+production%2C+step+by+step!+%F0%9F%8C%B1;Let's+connect+and+create+something+amazing!+%F0%9F%A4%9D;SENAI+pride%2C+senior+developer+mindset!+%F0%9F%9A%80" alt="Typing SVG"/>
-  
-  <br><br>
   
   <div>
     <img src="https://img.shields.io/badge/SENAI%20Student-Senior%20Track-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAI Badge"/>
     <img src="https://img.shields.io/badge/Progress-25%25%20Complete-green?style=for-the-badge&logo=chart-line&logoColor=white" alt="Progress Badge"/>
     <img src="https://img.shields.io/badge/Goal-Senior%20Developer%202026-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
   </div>
-  
-  <br><br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
 </div>
