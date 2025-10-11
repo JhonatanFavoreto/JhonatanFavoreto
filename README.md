@@ -1,19 +1,19 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Development+Student;SENAI+Valinhos+%F0%9F%8E%93;6+Months+Completed+%E2%9C%85;Future+Senior+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Development+Student;SENAI+Valinhos+%F0%9F%8E%93;6+Months+Completed+%E2%9C%85;Future+Junior+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br>
 
-**From logic to production - building the foundation for senior-level development.** 🌟
+**From logic to production - building the foundation for junior-level development.** 🌟
 
-Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at SENAI Valinhos** on a 2-year journey to senior developer level. Already 6 months in, I've built a solid foundation in programming logic, systems, and development methodologies.
+Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at SENAI Valinhos** on a 2-year journey to junior developer level. Already 6 months in, I've built a solid foundation in programming logic, systems, and development methodologies.
 
-💻 **Progress Status:** 6 months completed of 2-year senior development program  
+💻 **Progress Status:** 6 months completed of 2-year junior development program  
 📚 **Currently mastering:** Back-End Development, Database Systems, and Web Technologies  
 ✅ **Foundations completed:** Programming Logic, Systems, Requirements Engineering, and Network Architecture  
-🎯 **Goal:** Graduate as a Senior Developer with full-stack expertise by end of 2026  
+🎯 **Goal:** Start as a Junior Developer by end of 2026  
 🤝 **Open to:** Technical discussions, collaborative projects, internships, and mentorship opportunities  
 💬 **Talk to me about:** SENAI curriculum, software architecture, development methodologies, and tech career growth  
 📫 **Contact:** [jhonatan.favoreto18@gmail.com](mailto:jhonatan.favoreto18@gmail.com)
@@ -65,12 +65,12 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 ---
 
-## 🎓 SENAI Senior Development Journey
+## 🎓 SENAI Junior Development Journey
 
 <div align="center">
 
 ### ⏳ **2-Year Program Progress: 25% Complete** 
-**From Beginner to Senior Developer** | Started 2025 | Target: Senior Level End of 2026
+**From Beginner to Junior Developer** | Started 2025 | Target: Junior Level by End of 2026
 
 </div>
 
@@ -176,7 +176,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
   </h2>
   
   <div>
-    <h3>🎓 SENAI Senior Developer Network</h3>
+  <h3>🎓 SENAI Junior Developer Network</h3>
     <p><em>Connecting with fellow developers, sharing knowledge, and building tomorrow's solutions!</em></p>
     
     <table align="center">
@@ -189,7 +189,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
         <td align="center">
           <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><br>
           **Code Collaboration**<br>
-          <small>Senior-level Projects</small>
+          <small>Junior-level Projects</small>
         </td>
         <td align="center">
           <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"><br>
@@ -201,29 +201,29 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
   </div>
   
   <div>
-    <h3>⭐ Support My Journey to Senior Developer!</h3>
+  <h3>⭐ Support My Journey to Junior Developer!</h3>
     <p>If my learning path and projects inspire you, consider giving my repositories a star!</p>
     <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80" alt="Stars"/>
     <br>
-    <small><em>Your support fuels my journey from student to senior developer! 🚀</em></small>
+  <small><em>Your support fuels my journey from student to junior developer! 🚀</em></small>
   </div>
   
   <div>
     <h3>💼 Ready for Professional Opportunities</h3>
     <p>Open to internships, junior positions, and collaborative projects that challenge my growing skills!</p>
     <p>
-      <strong>6 months completed</strong> | <strong>18 months to senior level</strong> | <strong>Ready to contribute</strong>
+  <strong>6 months completed</strong> | <strong>18 months to junior level</strong> | <strong>Ready to contribute</strong>
     </p>
   </div>
 
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+tomorrow's+solutions+today!+%F0%9F%92%BB;From+logic+to+production%2C+step+by+step!+%F0%9F%8C%B1;Let's+connect+and+create+something+amazing!+%F0%9F%A4%9D;SENAI+pride%2C+senior+developer+mindset!+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+tomorrow's+solutions+today!+%F0%9F%92%BB;From+logic+to+production%2C+step+by+step!+%F0%9F%8C%B1;Let's+connect+and+create+something+amazing!+%F0%9F%A4%9D;SENAI+pride%2C+junior+developer+mindset!+%F0%9F%9A%80" alt="Typing SVG"/>
   
   <div>
-    <img src="https://img.shields.io/badge/SENAI%20Student-Senior%20Track-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAI Badge"/>
+  <img src="https://img.shields.io/badge/SENAI%20Student-Junior%20Track-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAI Badge"/>
     <img src="https://img.shields.io/badge/Progress-25%25%20Complete-green?style=for-the-badge&logo=chart-line&logoColor=white" alt="Progress Badge"/>
-    <img src="https://img.shields.io/badge/Goal-Senior%20Developer%202026-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
+  <img src="https://img.shields.io/badge/Goal-Junior%20Developer%202026-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
   </div>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
