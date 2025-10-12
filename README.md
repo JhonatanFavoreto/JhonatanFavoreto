@@ -18,7 +18,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 💬 **Talk to me about:** SENAI curriculum, software architecture, development methodologies, and tech career growth  
 📫 **Contact:** [jhonatan.favoreto18@gmail.com](mailto:jhonatan.favoreto18@gmail.com)
 
-> *"The expert in anything was once a beginner who refused to give up."* - 6 months down, 18 to go until end of 2026! 💪
+> _"The expert in anything was once a beginner who refused to give up."_ - 6 months down, 18 to go until end of 2026! 💪
 
 ---
 
@@ -34,6 +34,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JhonatanFavoreto&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
@@ -43,22 +44,26 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 ## 🛠️ Technology Stack
 
 ### **Core Technologies**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### **Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### **Database & Infrastructure**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### **Development Tools**
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -69,39 +74,44 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 <div align="center">
 
-### ⏳ **2-Year Program Progress: 25% Complete** 
+### ⏳ **2-Year Program Progress: 25% Complete**
+
 **From Beginner to Junior Developer** | Started 2025 | Target: Junior Level by End of 2026
 
 </div>
 
 ### ✅ **Semester 1 - Completed (6 months)**
-| Subject | Topics Covered | Status |
-|---------|---------------|--------|
-| **Programming Logic & Algorithms** | Logic, Algorithms, Programming Languages, Git, Cloud Versioning | ✅ **Mastered** |
-| **Operating Systems** | Closed/Open Source OS, Network Security, VPN, Cybersecurity, Information Security Policy | ✅ **Completed** |
-| **Requirements Engineering** | Requirements Analysis, Documentation, Scrum, Kanban, Design Thinking | ✅ **Completed** |
-| **Network Architecture with IoT** | Network Models, Protocols, Hardware Architecture, Network Services | ✅ **Completed** |
+
+| Subject                            | Topics Covered                                                                           | Status           |
+| ---------------------------------- | ---------------------------------------------------------------------------------------- | ---------------- |
+| **Programming Logic & Algorithms** | Logic, Algorithms, Programming Languages, Git, Cloud Versioning                          | ✅ **Mastered**  |
+| **Operating Systems**              | Closed/Open Source OS, Network Security, VPN, Cybersecurity, Information Security Policy | ✅ **Completed** |
+| **Requirements Engineering**       | Requirements Analysis, Documentation, Scrum, Kanban, Design Thinking                     | ✅ **Completed** |
+| **Network Architecture with IoT**  | Network Models, Protocols, Hardware Architecture, Network Services                       | ✅ **Completed** |
 
 ### 🔄 **Semester 2 - In Progress**
-| Subject | Current Focus | Status |
-|---------|--------------|--------|
-| **Database Systems** | SGBD, Relational Models, SQL Optimization | 🔄 **Current** |
-| **Markup Languages** | HTML5, CSS3, Responsive Layouts, Web Standards | 🔄 **Current** |
+
+| Subject                  | Current Focus                                              | Status         |
+| ------------------------ | ---------------------------------------------------------- | -------------- |
+| **Database Systems**     | SGBD, Relational Models, SQL Optimization                  | 🔄 **Current** |
+| **Markup Languages**     | HTML5, CSS3, Responsive Layouts, Web Standards             | 🔄 **Current** |
 | **Back-End Development** | OOP, MVC Patterns, Frameworks, Web Services, HTTP Protocol | 🔄 **Current** |
 
 ### 📅 **Upcoming Semesters (Semester 3-4)**
-| Subject | Planned Learning | Timeline |
-|---------|-----------------|----------|
-| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps | **Mid 2026** |
-| **Mobile Development** | Native Apps, APIs, Hardware Integration, App Publishing | **Mid 2026** |
-| **IoT Development** | Automation, Communication Protocols, Interactive Interfaces | **Late 2026** |
-| **Software Testing** | Test Planning, Execution, Quality Assurance | **Late 2026** |
-| **Software Projects** | Methodologies, Project Management, Final Portfolio | **End 2026** |
+
+| Subject                   | Planned Learning                                            | Timeline      |
+| ------------------------- | ----------------------------------------------------------- | ------------- |
+| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps          | **Mid 2026**  |
+| **Mobile Development**    | Native Apps, APIs, Hardware Integration, App Publishing     | **Mid 2026**  |
+| **IoT Development**       | Automation, Communication Protocols, Interactive Interfaces | **Late 2026** |
+| **Software Testing**      | Test Planning, Execution, Quality Assurance                 | **Late 2026** |
+| **Software Projects**     | Methodologies, Project Management, Final Portfolio          | **End 2026**  |
 
 ### 🎯 **Current Expertise Level**
+
 - **Programming Logic**: Advanced ⭐⭐⭐⭐⭐
 - **Systems Administration**: Intermediate ⭐⭐⭐⭐
-- **Requirements Engineering**: Intermediate ⭐⭐⭐⭐  
+- **Requirements Engineering**: Intermediate ⭐⭐⭐⭐
 - **Network & Security**: Intermediate ⭐⭐⭐⭐
 - **Database Design**: Learning ⭐⭐⭐
 - **Web Development**: Learning ⭐⭐⭐
@@ -179,7 +189,6 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
   <h3>🎓 SENAI Junior Developer Network</h3>
     <p><em>Connecting with fellow developers, sharing knowledge, and building tomorrow's solutions!</em></p>
     
-    <div align="center">
       
 ### 🌟 **Professional Network & Collaboration**
 
@@ -188,28 +197,31 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 <td align="center" width="33%">
 
 #### 🎯 **Tech Discussions**
+
 ![Tech](https://img.shields.io/badge/Focus-Clean_Code-58A6FF?style=for-the-badge&logo=code&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Topic-Architecture-58A6FF?style=for-the-badge&logo=sitemap&logoColor=white)
 
-*Best practices & patterns*
+_Best practices & patterns_
 
 </td>
 <td align="center" width="33%">
 
 #### 🤝 **Open Source**
+
 ![Collaboration](https://img.shields.io/badge/Type-Collaborative-58A6FF?style=for-the-badge&logo=github&logoColor=white)
 ![Development](https://img.shields.io/badge/Mode-Development-58A6FF?style=for-the-badge&logo=git&logoColor=white)
 
-*Contributing to community*
+_Contributing to community_
 
 </td>
 <td align="center" width="33%">
 
 #### 📚 **Continuous Learning**
+
 ![Learning](https://img.shields.io/badge/Path-Junior_to_Pro-58A6FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Growth](https://img.shields.io/badge/Focus-Growth-58A6FF?style=for-the-badge&logo=trending-up&logoColor=white)
 
-*Always evolving skills*
+_Always evolving skills_
 
 </td>
 </tr>
@@ -234,8 +246,8 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
     </p>
   </div>
 
-  <br><br>
-  
+<br><br>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+tomorrow's+solutions+today!+%F0%9F%92%BB;From+logic+to+production%2C+step+by+step!+%F0%9F%8C%B1;Let's+connect+and+create+something+amazing!+%F0%9F%A4%9D;SENAI+pride%2C+junior+developer+mindset!+%F0%9F%9A%80" alt="Typing SVG"/>
   
   <div>
