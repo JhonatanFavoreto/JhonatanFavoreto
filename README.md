@@ -218,19 +218,19 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 </div>
   </div>
   
-  <div>
-  <h3>⭐ Support My Journey to Junior Developer!</h3>
+  <div align="center">
+    <h3>⭐ Support My Journey to Junior Developer!</h3>
     <p>If my learning path and projects inspire you, consider giving my repositories a star!</p>
     <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80" alt="Stars"/>
     <br>
-  <small><em>Your support fuels my journey from student to junior developer! 🚀</em></small>
+    <small><em>Your support fuels my journey from student to junior developer! 🚀</em></small>
   </div>
   
-  <div>
+  <div align="center">
     <h3>💼 Ready for Professional Opportunities</h3>
     <p>Open to internships, junior positions, and collaborative projects that challenge my growing skills!</p>
     <p>
-  <strong>6 months completed</strong> | <strong>18 months to junior level</strong> | <strong>Ready to contribute</strong>
+      <strong>6 months completed</strong> | <strong>18 months to junior level</strong> | <strong>Ready to contribute</strong>
     </p>
   </div>
 
