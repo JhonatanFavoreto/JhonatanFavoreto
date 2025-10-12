@@ -180,26 +180,42 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
     <p><em>Connecting with fellow developers, sharing knowledge, and building tomorrow's solutions!</em></p>
     
     <div align="center">
-      <table style="border: none; background: transparent;">
-        <tr>
-          <td align="center" style="padding: 20px; border: 2px solid #58A6FF; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); margin: 10px;">
-            <div style="color: #58A6FF; font-size: 24px; margin-bottom: 8px;">🎯</div>
-            <h4 style="color: #58A6FF; margin: 8px 0; font-weight: 600;">Tech Discussions</h4>
-            <p style="color: #8B949E; font-size: 14px; margin: 0;">Clean Code & Architecture</p>
-          </td>
-          <td align="center" style="padding: 20px; border: 2px solid #58A6FF; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); margin: 10px;">
-            <div style="color: #58A6FF; font-size: 24px; margin-bottom: 8px;">🤝</div>
-            <h4 style="color: #58A6FF; margin: 8px 0; font-weight: 600;">Open Source</h4>
-            <p style="color: #8B949E; font-size: 14px; margin: 0;">Collaborative Development</p>
-          </td>
-          <td align="center" style="padding: 20px; border: 2px solid #58A6FF; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); margin: 10px;">
-            <div style="color: #58A6FF; font-size: 24px; margin-bottom: 8px;">📚</div>
-            <h4 style="color: #58A6FF; margin: 8px 0; font-weight: 600;">Continuous Learning</h4>
-            <p style="color: #8B949E; font-size: 14px; margin: 0;">Junior to Professional Growth</p>
-          </td>
-        </tr>
-      </table>
-    </div>
+      
+### 🌟 **Professional Network & Collaboration**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🎯 **Tech Discussions**
+![Tech](https://img.shields.io/badge/Focus-Clean_Code-58A6FF?style=for-the-badge&logo=code&logoColor=white)
+![Architecture](https://img.shields.io/badge/Topic-Architecture-58A6FF?style=for-the-badge&logo=sitemap&logoColor=white)
+
+*Best practices & patterns*
+
+</td>
+<td align="center" width="33%">
+
+#### 🤝 **Open Source**
+![Collaboration](https://img.shields.io/badge/Type-Collaborative-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Development](https://img.shields.io/badge/Mode-Development-58A6FF?style=for-the-badge&logo=git&logoColor=white)
+
+*Contributing to community*
+
+</td>
+<td align="center" width="33%">
+
+#### 📚 **Continuous Learning**
+![Learning](https://img.shields.io/badge/Path-Junior_to_Pro-58A6FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Growth](https://img.shields.io/badge/Focus-Growth-58A6FF?style=for-the-badge&logo=trending-up&logoColor=white)
+
+*Always evolving skills*
+
+</td>
+</tr>
+</table>
+
+</div>
   </div>
   
   <div>
