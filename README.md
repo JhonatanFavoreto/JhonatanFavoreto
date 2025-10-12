@@ -179,25 +179,27 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
   <h3>🎓 SENAI Junior Developer Network</h3>
     <p><em>Connecting with fellow developers, sharing knowledge, and building tomorrow's solutions!</em></p>
     
-    <table align="center">
-      <tr>
-        <td align="center">
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
-          **Technical Discussions**<br>
-          <small>Architecture & Best Practices</small>
-        </td>
-        <td align="center">
-          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><br>
-          **Code Collaboration**<br>
-          <small>Junior-level Projects</small>
-        </td>
-        <td align="center">
-          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"><br>
-          **Mentorship Exchange**<br>
-          <small>Growing Together</small>
-        </td>
-      </tr>
-    </table>
+    <div align="center">
+      <table style="border: none; background: transparent;">
+        <tr>
+          <td align="center" style="padding: 20px; border: 2px solid #58A6FF; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); margin: 10px;">
+            <div style="color: #58A6FF; font-size: 24px; margin-bottom: 8px;">🎯</div>
+            <h4 style="color: #58A6FF; margin: 8px 0; font-weight: 600;">Tech Discussions</h4>
+            <p style="color: #8B949E; font-size: 14px; margin: 0;">Clean Code & Architecture</p>
+          </td>
+          <td align="center" style="padding: 20px; border: 2px solid #58A6FF; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); margin: 10px;">
+            <div style="color: #58A6FF; font-size: 24px; margin-bottom: 8px;">🤝</div>
+            <h4 style="color: #58A6FF; margin: 8px 0; font-weight: 600;">Open Source</h4>
+            <p style="color: #8B949E; font-size: 14px; margin: 0;">Collaborative Development</p>
+          </td>
+          <td align="center" style="padding: 20px; border: 2px solid #58A6FF; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); margin: 10px;">
+            <div style="color: #58A6FF; font-size: 24px; margin-bottom: 8px;">📚</div>
+            <h4 style="color: #58A6FF; margin: 8px 0; font-weight: 600;">Continuous Learning</h4>
+            <p style="color: #8B949E; font-size: 14px; margin: 0;">Junior to Professional Growth</p>
+          </td>
+        </tr>
+      </table>
+    </div>
   </div>
   
   <div>
