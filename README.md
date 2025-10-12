@@ -233,7 +233,11 @@ _Always evolving skills_
   <div align="center">
     <h3>⭐ Support My Journey to Junior Developer!</h3>
     <p>If my learning path and projects inspire you, consider giving my repositories a star!</p>
-    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80" alt="Stars"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnVwZmNyem53cDNnenZ1eXphMm5kNTExZ3A4ZDZua2xsMTNia2NxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif" width="80" alt="Stars"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGd3YnNsOHhxMnA0d2V3aTFhNjZkNWd5cXNlYzNhZDl0ZmxtbmVpYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="80" alt="Stars"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGd3YnNsOHhxMnA0d2V3aTFhNjZkNWd5cXNlYzNhZDl0ZmxtbmVpYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="80" alt="Stars"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGd3YnNsOHhxMnA0d2V3aTFhNjZkNWd5cXNlYzNhZDl0ZmxtbmVpYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fha1cv4Le2lVRXXJsc/giphy.gif" width="80" alt="Stars"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjlvem5zbmt4azRucDNoa2JiZzVqdW5oMG5kMXhyemtlbjdhMGNneSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" width="80" alt="Stars"/>
     <br>
     <small><em>Your support fuels my journey from student to junior developer! 🚀</em></small>
   </div>
