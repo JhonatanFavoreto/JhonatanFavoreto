@@ -87,19 +87,19 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 ### ✅ **Semester 2 - Completed**
 
-| Subject                  | Current Focus                                                                    | Status           |
-| ------------------------ | ---------------------------------------------------------------------------------| ---------------- |
-| **Database Systems**     | SGBD, Relational Models, SQL Optimization                                        | ✅ **Completed** |
-| **Markup Languages**     | HTML5, CSS3, Responsive Layouts, Web Standards                                   | ✅ **Completed** |
-| **Back-End Development** | HTTP Protocol, Web Services Basics, Client–Server Architecture, Backend Concepts | ✅ **Completed** |
+| Subject                    | Current Focus                                                                    | Status           |
+| -------------------------- | ---------------------------------------------------------------------------------| ---------------- |
+| **Database Systems**       | SGBD, Relational Models, SQL Optimization                                        | ✅ **Completed** |
+| **Markup Languages**       | HTML5, CSS3, Responsive Layouts, Web Standards                                   | ✅ **Completed** |
+| **Back-End Development I** | HTTP Protocol, Web Services Basics, Client–Server Architecture, Backend Concepts | ✅ **Completed** |
 
 ### 🔄 Semester 3 - In Progress ###
 
-| Subject                   | Planned Learning                                                            | Timeline         |
-| ------------------------- | ----------------------------------------------------------------------------| ---------------- |
-| **Back-End Engineering**  | Object-Oriented Programming (OOP), MVC Pattern, Frameworks, API Development | 🔄 **Current**   |
-| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps                          | 🔄 **Current**   |
-| **Mobile Development**    | Native Apps, APIs, Hardware Integration, App Publishing                     | 🔄 **Current**   |
+| Subject                     | Planned Learning                                                            | Timeline         |
+| ----------------------------| ----------------------------------------------------------------------------| ---------------- |
+| **Back-End Development II** | Object-Oriented Programming (OOP), MVC Pattern, Frameworks, API Development | 🔄 **Current**   |
+| **Front-End Development**   | Advanced JavaScript, React, UX/UI Design, Web Apps                          | 🔄 **Current**   |
+| **Mobile Development**      | Native Apps, APIs, Hardware Integration, App Publishing                     | 🔄 **Current**   |
 
 ### 📅 Semester 4 - Upcoming  ###
 | Subject                   | Planned Learning                                            | Timeline      |
