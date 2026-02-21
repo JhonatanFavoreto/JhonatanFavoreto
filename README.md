@@ -96,7 +96,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 ### 🔄 Semester 3 - In Progress ###
 
-| Subject                   | Planned Learning                                                            | Timeline         |
+| Subject                   | Planned Learning                                                            | Status           |
 | --------------------------| ----------------------------------------------------------------------------| ---------------- |
 | **Backend Advanced**      | Object-Oriented Programming (OOP), MVC Pattern, Frameworks, API Development | 🔄 **Current**   |
 | **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps                          | 🔄 **Current**   |
