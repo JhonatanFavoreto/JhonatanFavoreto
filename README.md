@@ -1,16 +1,16 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Development+Student;SENAI+Valinhos+%F0%9F%8E%93;6+Months+Completed+%E2%9C%85;Future+Junior+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Development+Student;SENAI+Valinhos+%F0%9F%8E%93;12+Months+Completed+%E2%9C%85;Future+Junior+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br>
 
 **From logic to production - building the foundation for junior-level development.** 🌟
 
-Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at SENAI Valinhos** on a 2-year journey to junior developer level. Already 6 months in, I've built a solid foundation in programming logic, systems, and development methodologies.
+Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at SENAI Valinhos** on a 2-year journey to junior developer level. Already 12 months in, I've built a solid foundation in programming logic, systems, and development methodologies.
 
-💻 **Progress Status:** 6 months completed of 2-year junior development program  
+💻 **Progress Status:** 12 months completed of 2-year junior development program  
 📚 **Currently mastering:** Back-End Development, Database Systems, and Web Technologies  
 ✅ **Foundations completed:** Programming Logic, Systems, Requirements Engineering, and Network Architecture  
 🎯 **Goal:** Start as a Junior Developer by end of 2026  
@@ -18,7 +18,8 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 💬 **Talk to me about:** SENAI curriculum, software architecture, development methodologies, and tech career growth  
 📫 **Contact:** [jhonatan.favoreto18@gmail.com](mailto:jhonatan.favoreto18@gmail.com)
 
-> _"The expert in anything was once a beginner who refused to give up."_ - 6 months down, 18 to go until end of 2026! 💪
+> _"The expert in anything was once a beginner who refused to give up."_  
+> — 1 year in, continuously building skills and experience toward 2027 💻🚀
 
 ---
 
@@ -74,13 +75,13 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 <div align="center">
 
-### ⏳ **2-Year Program Progress: 25% Complete**
+### ⏳ **2-Year Program Progress: 50% Complete**
 
 **From Beginner to Junior Developer** | Started 2025 | Target: Junior Level by End of 2026
 
 </div>
 
-### ✅ **Semester 1 - Completed (6 months)**
+### ✅ **Semester 1 - Completed**
 
 | Subject                            | Topics Covered                                                                           | Status           |
 | ---------------------------------- | ---------------------------------------------------------------------------------------- | ---------------- |
@@ -89,32 +90,38 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 | **Requirements Engineering**       | Requirements Analysis, Documentation, Scrum, Kanban, Design Thinking                     | ✅ **Completed** |
 | **Network Architecture with IoT**  | Network Models, Protocols, Hardware Architecture, Network Services                       | ✅ **Completed** |
 
-### 🔄 **Semester 2 - In Progress**
+### ✅ **Semester 2 - Completed**
 
-| Subject                  | Current Focus                                              | Status         |
-| ------------------------ | ---------------------------------------------------------- | -------------- |
-| **Database Systems**     | SGBD, Relational Models, SQL Optimization                  | 🔄 **Current** |
-| **Markup Languages**     | HTML5, CSS3, Responsive Layouts, Web Standards             | 🔄 **Current** |
-| **Back-End Development** | OOP, MVC Patterns, Frameworks, Web Services, HTTP Protocol | 🔄 **Current** |
+| Subject                  | Current Focus                                                                    | Status           |
+| ------------------------ | ---------------------------------------------------------------------------------| ---------------- |
+| **Database Systems**     | SGBD, Relational Models, SQL Optimization                                        | ✅ **Completed** |
+| **Markup Languages**     | HTML5, CSS3, Responsive Layouts, Web Standards                                   | ✅ **Completed** |
+| **Back-End Development** | HTTP Protocol, Web Services Basics, Client–Server Architecture, Backend Concepts | ✅ **Completed** |
 
-### 📅 **Upcoming Semesters (Semester 3-4)**
+### 🔄 Semester 3 - In Progress ###
 
+| Subject                   | Planned Learning                                                            | Timeline         |
+| ------------------------- | ----------------------------------------------------------------------------| ---------------- |
+| **Back-End Engineering**  | Object-Oriented Programming (OOP), MVC Pattern, Frameworks, API Development | 🔄 **Current**   |
+| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps                          | 🔄 **Current**   |
+| **Mobile Development**    | Native Apps, APIs, Hardware Integration, App Publishing                     | 🔄 **Current**   |
+
+### 📅 Semester 4 - Upcoming  ###
 | Subject                   | Planned Learning                                            | Timeline      |
 | ------------------------- | ----------------------------------------------------------- | ------------- |
-| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps          | **Mid 2026**  |
-| **Mobile Development**    | Native Apps, APIs, Hardware Integration, App Publishing     | **Mid 2026**  |
 | **IoT Development**       | Automation, Communication Protocols, Interactive Interfaces | **Late 2026** |
 | **Software Testing**      | Test Planning, Execution, Quality Assurance                 | **Late 2026** |
 | **Software Projects**     | Methodologies, Project Management, Final Portfolio          | **End 2026**  |
 
-### 🎯 **Current Expertise Level**
+### 🎯 Current Expertise Level
 
-- **Programming Logic**: Advanced ⭐⭐⭐⭐⭐
-- **Systems Administration**: Intermediate ⭐⭐⭐⭐
+- **Programming Logic & Algorithms**: Advanced ⭐⭐⭐⭐⭐
+- **Operating Systems & Security**: Intermediate ⭐⭐⭐⭐
 - **Requirements Engineering**: Intermediate ⭐⭐⭐⭐
-- **Network & Security**: Intermediate ⭐⭐⭐⭐
-- **Database Design**: Learning ⭐⭐⭐
-- **Web Development**: Learning ⭐⭐⭐
+- **Network Architecture & Security**: Intermediate ⭐⭐⭐⭐
+- **Database Systems**: Intermediate ⭐⭐⭐⭐
+- **Web Development (HTML/CSS)**: Intermediate ⭐⭐⭐⭐
+- **Back-End Development**: Developing ⭐⭐⭐
 
 🔗 **[View Academic Projects](https://github.com/JhonatanFavoreto?tab=repositories)** | 💼 **[Connect for Professional Opportunities](mailto:jhonatan.favoreto18@gmail.com)**
 
@@ -244,7 +251,7 @@ _Always evolving skills_
     <h3>💼 Ready for Professional Opportunities</h3>
     <p>Open to internships, junior positions, and collaborative projects that challenge my growing skills!</p>
     <p>
-      <strong>6 months completed</strong> | <strong>18 months to junior level</strong> | <strong>Ready to contribute</strong>
+      <strong>12 months completed</strong> | <strong>18 months to junior level</strong> | <strong>Ready to contribute</strong>
     </p>
   </div>
 
@@ -254,7 +261,7 @@ _Always evolving skills_
   
   <div>
   <img src="https://img.shields.io/badge/SENAI%20Student-Junior%20Track-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAI Badge"/>
-    <img src="https://img.shields.io/badge/Progress-25%25%20Complete-green?style=for-the-badge&logo=chart-line&logoColor=white" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Progress-50%25%20Complete-green?style=for-the-badge&logo=chart-line&logoColor=white" alt="Progress Badge"/>
   <img src="https://img.shields.io/badge/Goal-Junior%20Developer%202026-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
   </div>
   
