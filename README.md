@@ -247,7 +247,7 @@ _Always evolving skills_
     <h3>💼 Ready for Professional Opportunities</h3>
     <p>Open to internships, junior positions, and collaborative projects that challenge my growing skills!</p>
     <p>
-      <strong>12 months completed</strong> | <strong>18 months to junior level</strong> | <strong>Ready to contribute</strong>
+    <strong>12 months completed</strong> | <strong>1 year to junior level</strong> | <strong>Ready to contribute</strong>
     </p>
   </div>
 
