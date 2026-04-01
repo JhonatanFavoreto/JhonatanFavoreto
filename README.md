@@ -16,7 +16,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 🎯 **Goal:** Start as a Junior Developer by end of 2026  
 🤝 **Open to:** Technical discussions, collaborative projects, internships, and mentorship opportunities  
 💬 **Talk to me about:** SENAI curriculum, software architecture, development methodologies, and tech career growth  
-📫 **Contact:** [jhonatan.favoreto18@gmail.com](mailto:jhonatan.favoreto18@gmail.com)
+📫 **Contact:** [jhonatan.favoreto.dev@gmail.com](mailto:jhonatan.favoreto.dev@gmail.com)
 
 > _"The expert in anything was once a beginner who refused to give up."_  
 > — 1 year in, continuously building skills and experience toward 2027 💻🚀
@@ -81,33 +81,33 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 | Subject                            | Topics Covered                                                                           | Status           |
 | ---------------------------------- | ---------------------------------------------------------------------------------------- | ---------------- |
-| **Programming Logic & Algorithms** | Logic, Algorithms, Programming Languages, Git, Cloud Versioning                          | ✅ **Mastered**  |
-| **Operating Systems**              | Closed/Open Source OS, Network Security, VPN, Cybersecurity, Information Security Policy | ✅ **Completed** |
-| **Requirements Engineering**       | Requirements Analysis, Documentation, Scrum, Kanban, Design Thinking                     | ✅ **Completed** |
-| **Network Architecture with IoT**  | Network Models, Protocols, Hardware Architecture, Network Services                       | ✅ **Completed** |
+| **Programming Logic & Algorithms** | Logic, Algorithms, Programming Languages, Git, Cloud Versioning                          | ✅ **Mastered** |
+| **Operating Systems** | Closed/Open Source OS, Network Security, VPN, Cybersecurity, Information Security Policy | ✅ **Completed** |
+| **Requirements Engineering** | Requirements Analysis, Documentation, Scrum, Kanban, Design Thinking                     | ✅ **Completed** |
+| **Network Architecture with IoT** | Network Models, Protocols, Hardware Architecture, Network Services                       | ✅ **Completed** |
 
 ### ✅ **Semester 2 - Completed**
 
 | Subject                 | Current Focus                                                                    | Status           |
 | ----------------------- | ---------------------------------------------------------------------------------| ---------------- |
-| **Database Systems**    | SGBD, Relational Models, SQL Optimization                                        | ✅ **Completed** |
-| **Markup Languages**    | HTML5, CSS3, Responsive Layouts, Web Standards                                   | ✅ **Completed** |
+| **Database Systems** | SGBD, Relational Models, SQL Optimization                                        | ✅ **Completed** |
+| **Markup Languages** | HTML5, CSS3, Responsive Layouts, Web Standards                                   | ✅ **Completed** |
 | **Backend Foundations** | HTTP Protocol, Web Services Basics, Client–Server Architecture, Backend Concepts | ✅ **Completed** |
 
 ### 🔄 Semester 3 - In Progress ###
 
 | Subject                   | Planned Learning                                                            | Status           |
 | --------------------------| ----------------------------------------------------------------------------| ---------------- |
-| **Backend Advanced**      | Object-Oriented Programming (OOP), MVC Pattern, Frameworks, API Development | 🔄 **Current**   |
-| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps                          | 🔄 **Current**   |
-| **Mobile Development**    | Native Apps, APIs, Hardware Integration, App Publishing                     | 🔄 **Current**   |
+| **Backend Advanced** | Object-Oriented Programming (OOP), MVC Pattern, Frameworks, API Development | 🔄 **Current** |
+| **Front-End Development** | Advanced JavaScript, React, UX/UI Design, Web Apps                          | 🔄 **Current** |
+| **Mobile Development** | Native Apps, APIs, Hardware Integration, App Publishing                     | 🔄 **Current** |
 
 ### 📅 Semester 4 - Upcoming  ###
 | Subject                   | Planned Learning                                            | Timeline      |
 | ------------------------- | ----------------------------------------------------------- | ------------- |
-| **IoT Development**       | Automation, Communication Protocols, Interactive Interfaces | **Late 2026** |
-| **Software Testing**      | Test Planning, Execution, Quality Assurance                 | **Late 2026** |
-| **Software Projects**     | Methodologies, Project Management, Final Portfolio          | **End 2026**  |
+| **IoT Development** | Automation, Communication Protocols, Interactive Interfaces | **Late 2026** |
+| **Software Testing** | Test Planning, Execution, Quality Assurance                 | **Late 2026** |
+| **Software Projects** | Methodologies, Project Management, Final Portfolio          | **End 2026** |
 
 ### 🎯 Current Expertise Level
 
@@ -119,7 +119,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 - **Web Development (HTML/CSS)**: Intermediate ⭐⭐⭐⭐
 - **Back-End Development**: Developing ⭐⭐⭐
 
-🔗 **[View Academic Projects](https://github.com/JhonatanFavoreto?tab=repositories)** | 💼 **[Connect for Professional Opportunities](mailto:jhonatan.favoreto18@gmail.com)**
+🔗 **[View Academic Projects](https://github.com/JhonatanFavoreto?tab=repositories)** | 💼 **[Connect for Professional Opportunities](mailto:jhonatan.favoreto.dev@gmail.com)**
 
 ---
 
@@ -137,7 +137,7 @@ Hey there! I'm Jhonatan, a dedicated **Technical Software Development student at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-henrique-favoreto-72017434b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonatanFavoreto)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatan.favoreto18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatan.favoreto.dev@gmail.com)
 
 </div>
 
